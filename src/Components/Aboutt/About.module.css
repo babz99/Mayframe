@@ -1,0 +1,39 @@
+.outerContainer{
+    width: 100%;
+    margin: auto;
+    height: 900px;
+    padding-top: 5rem;
+    background-image: url(../../assets/About.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.innerContainer{
+    padding-top: 14rem;
+    padding-left: 7rem;
+}
+
+.innerContainer h2{
+    width: 322px;
+    height: 77px;
+    font-family: Lato;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:  #FFFFFF;
+}
+
+.innerContainer h3{
+    width: 244px;
+    height: 29px;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:  #FFFFFF;
+    margin-top: -2rem;
+}

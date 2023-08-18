@@ -1,0 +1,204 @@
+.container{
+    width: 80%;
+    margin: auto;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.welcome h2{
+    width: 492px;
+    height: 96px;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1F1F21;
+}
+
+.welcome p{
+    width: 650px;
+    height: 199px;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: npx;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #515151;
+}
+
+.safety{
+    display: flex;
+}
+
+.safeContainer{
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -2rem;
+}
+
+.safety2 h3{
+    width: 70px;
+    height: 29px;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1F1F21;
+    margin-left:1rem
+}
+
+.safety1 img{
+    margin-top: 1.4rem;
+}
+
+.safe1 p{
+    width: 260px;
+    height: 90px;
+    font-family: Lato;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #515151;
+    margin-top: -1rem;  
+}
+
+.professional{
+    display: flex;
+}
+
+.professional2 h3{
+    width: 70px;
+    height: 29px;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1F1F21;
+    margin-left:1rem
+}
+
+.professional1 img{
+    margin-top: 1.4rem;
+}
+
+.prof1 p{
+    width: 260px;
+    height: 90px;
+    font-family: Lato;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #515151;
+    margin-top: -1rem;  
+}
+
+.prof1{
+    padding-left: 5rem;
+}
+
+.customer{
+    display: flex;
+}
+
+.customer2 h3{
+    width: 200px;
+    height: 29px;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1F1F21;
+    margin-left:1rem
+}
+
+.customer1 img{
+    margin-top: 1.6rem;
+}
+
+.cust1 p{
+    width: 265px;
+    height: 150px;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0rem;
+    text-align: left;
+    margin-top: -1rem;
+    color: #515151;
+}
+
+.continous2 h3{
+    width: 164px;
+    height: 58px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1F1F21;
+    margin-left:1rem
+}
+
+.continous1 img{
+    margin-top: 1.6rem;
+}
+
+.continous{
+    display: flex;
+
+}
+
+.cont1 p{
+    width: 250px;
+    height: 135px;
+    font-family: Lato;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #515151;
+    margin-top: -1rem;
+}
+
+.innerContainer1{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.cont1{
+    padding-left: 5rem;
+}
+
+.frame{
+    margin-top: 3rem;
+}
+
+.cat img{
+    margin-top: -24rem;
+    margin-left: -5rem;
+}
+
+
+
